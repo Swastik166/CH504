@@ -18,3 +18,6 @@ Steps:
 - Execute all code blocks to generate the coordinates.
 - Transfer the generated coordinates into your .com file and perform molecular optimization.
 - Repeat the procedure for the remaining products as required.
+
+## Drawing Molecules
+![image](https://github.com/user-attachments/assets/1374334c-7888-4eba-95a4-f5ce431f4744)
